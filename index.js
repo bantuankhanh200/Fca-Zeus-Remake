@@ -27,7 +27,7 @@ global.Fca = new Object({
             "PreKey": "",
             "AutoUpdate": true,
             "MainColor": "#9900FF",
-            "MainName": "[ FCA-HZI ]",
+            "MainName": "[ FCA-ZEUS ]",
             "Uptime": false,
             "Config": "default",
             "DevMode": false,
